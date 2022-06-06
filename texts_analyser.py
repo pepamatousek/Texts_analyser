@@ -1,5 +1,5 @@
 """
-01_Textový_analyzátor.py: Prvni projekt do Engeto Online Python Akademie
+texts_analyser.py: Prvni projekt do Engeto Online Python Akademie
 
 author: Josef Matoušek
 email: jmatousek.jobs@icloud.com
