@@ -1,2 +1,2 @@
-# Texts_analyser
-Textový analyzátor
+# Texts analyser
+>Skript analyzuje zvolený text na základě vlastních preferencí....
